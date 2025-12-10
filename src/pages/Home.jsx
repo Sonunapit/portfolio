@@ -1,5 +1,5 @@
-import { ThemeToggle } from "../Components/ThemeToggle"
-import { BackgroundAnimations } from "../Components/Background"
+import { ThemeToggle } from "@/Components/ThemeToggle"
+import { BackgroundAnimations } from "@/Components/Background"
 import { Navbar } from "../components/Navbar"
 import { MainSection } from "../components/MainSection"
 import { AboutSection } from "../components/About"
